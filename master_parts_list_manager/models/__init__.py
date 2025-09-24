@@ -1,1 +1,1 @@
-from . import parts
+from . import master_part
